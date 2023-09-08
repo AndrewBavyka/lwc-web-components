@@ -1,0 +1,10 @@
+/* This script is generated */
+/* Client Bootstrap configuration */
+globalThis.LWR = globalThis.LWR || {};
+Object.assign(globalThis.LWR, {"appId":"example","bootstrapModule":"@lwrjs/app-service/example/module/esm/v/0_10_3","autoBoot":true,"imports":{"/1/bundle/esm/l/en-US/bi/0/module/mi/%40lwrjs%2Fapp-service%2Fexample%2Fmodule%2Fesm%2Fv%2F0_10_3/s/ae4306a2e251e2babd4df1226d5032d735c7289d/bundle_@lwrjs_app-service_example_module_esm.js":["@lwrjs/app-service/example/module/esm/v/0_10_3"],"/1/bundle/esm/l/en-US/bi/0/module/mi/example%2Fapp%2Fv%2F0_0_1/s/8c18dd10e26d3d653d1dc6ccc26d1c04c8f11a4a/bundle_example_app.js":["example/app/v/0_0_1"]},"index":{"@lwrjs/app-service/example/module/esm/v/0_10_3":"/1/module/esm/0/l/en-US/mi/%40lwrjs%2Fapp-service%2Fexample%2Fmodule%2Fesm%2Fv%2F0_10_3/latest/@lwrjs_app-service_example_module_esm.js","example/app/v/0_0_1":"/1/module/esm/0/l/en-US/mi/example%2Fapp%2Fv%2F0_0_1/latest/example_app.js"},"rootComponents":["example/app/v/0_0_1"],"endpoints":{"uris":{"mapping":"/1/mapping/esm/0/l/en-US/bi/0/mp/","module":"/1/bundle/esm/l/en-US/bi/0/module/mi/"}}});
+globalThis.process = { env: { NODE_ENV: "prod", SSR: false } };
+// Appended by Static Site Generator
+if (!globalThis.LWR.imports) { globalThis.LWR.imports = {}; }
+Object.assign(globalThis.LWR.imports, {"/1/bundle/esm/l/en-US/bi/0/module/mi/lwc%2Fv%2F3_0_0/s/161b99d695053a1fe56ab76b88ac3049278f464f/bundle_lwc.js":["lwc/v/3_0_0"],"/1/bundle/esm/l/en-US/bi/0/module/mi/lwr%2FesmLoader%2Fv%2F0_10_3/s/eacd2ae86fa8c61856c1e0806add456d21bdf518/bundle_lwr_esmLoader.js":["lwr/esmLoader/v/0_10_3"],"/1/bundle/esm/l/en-US/bi/0/module/mi/lwr%2Fprofiler%2Fv%2F0_10_3/s/38919e770aa205d36e40cb60d9c6a002602b3cf5/bundle_lwr_profiler.js":["lwr/profiler/v/0_10_3"]})
+if (!globalThis.LWR.index) { globalThis.LWR.index = {}; }
+Object.assign(globalThis.LWR.index, {"lwc/v/3_0_0":"/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F3_0_0/latest/lwc.js","lwr/esmLoader/v/0_10_3":"/1/module/esm/0/l/en-US/mi/lwr%2FesmLoader%2Fv%2F0_10_3/latest/lwr_esmLoader.js","lwr/profiler/v/0_10_3":"/1/module/esm/0/l/en-US/mi/lwr%2Fprofiler%2Fv%2F0_10_3/latest/lwr_profiler.js"})
